@@ -1,0 +1,12 @@
+{
+    "name": "devnkd/calculator",
+    "description": "This demo package will do some calculations",
+    "authors": [
+        {
+            "name": "Dodiya nilesh",
+            "email": "dodiyanilesh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
